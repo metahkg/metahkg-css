@@ -1,0 +1,12 @@
+{
+  "name": "metahkg-css",
+  "version": "1.0.1",
+  "description": "metahkg css files",
+  "repository": "https://gitlab.com/metahkg/metahkg-css.git",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "author": "wcyat",
+  "license": "AGPL-3.0-or-later",
+  "devDependencies": {}
+}

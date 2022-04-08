@@ -1,0 +1,27 @@
+.white {
+  color: white;
+}
+.force-white {
+  color: white !important;
+}
+.white-force {
+  color: white !important;
+}
+.metahkg-grey {
+  color: #aca9a9;
+}
+.metahkg-grey-force {
+  color: #aca9a9 !important;
+}
+.metahkg-yellow {
+  color: #f5bd1f;
+}
+.metahkg-yellow-force {
+  color: #f5bd1f !important;
+}
+.transparent {
+  color: rgba(255, 255, 255, 0);
+}
+.transparent-force {
+  color: rgba(255, 255, 255, 0);
+}

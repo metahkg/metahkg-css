@@ -1,6 +1,6 @@
 {
   "name": "metahkg-css",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "metahkg css files",
   "repository": "https://gitlab.com/metahkg/metahkg-css.git",
   "scripts": {

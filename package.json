@@ -8,6 +8,8 @@
   },
   "author": "wcyat",
   "license": "MIT",
-  "devDependencies": {},
+  "devDependencies": {
+    "csso-cli": "^3.0.0"
+  },
   "dependencies": {}
 }

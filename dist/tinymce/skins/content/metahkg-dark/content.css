@@ -69,6 +69,6 @@ code {
 img {
   object-fit: contain !important;
   height: 100% !important;
-  max-height: 400px !important;
+  max-height: 800px !important;
   max-width: 100% !important;
 }
